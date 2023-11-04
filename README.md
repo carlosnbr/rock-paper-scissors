@@ -6,3 +6,4 @@ This is the first project using JavaScript. The highlights of my implementation 
 2. Used the Math.random() function, it was challenging and had to do research on how to get a random property from an object.
 3. Tried to have everything done by helper functions and one main function calling them all.
 4. Used template literals instead of concatenating string using the + sign
+5. The final thing to do was to manipulate the DOM to have an UI
